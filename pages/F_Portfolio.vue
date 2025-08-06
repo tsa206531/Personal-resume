@@ -59,7 +59,7 @@ const showMore = () => {
 const updateHeight = async () => {
   await nextTick()
   const height = document.documentElement.scrollHeight
-  window.parent.postMessage({ type: 'resize', height }, 'Personal-resume\pages\index.vue')
+  window.parent.postMessage({ type: 'resize', height }, 'https://personal-resume-git-main-yl-chens-projects.vercel.app/')
 }
 
 // 初始加載 + 每次載入更多圖片後都呼叫
