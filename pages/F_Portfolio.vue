@@ -59,7 +59,7 @@ const showMore = () => {
 const updateHeight = async () => {
   await nextTick()
   const height = document.documentElement.scrollHeight
-  window.parent.postMessage({ type: 'resize', height }, 'http://localhost:3000/index')
+  window.parent.postMessage({ type: 'resize', height }, 'Personal-resume\pages\index.vue')
 }
 
 // 初始加載 + 每次載入更多圖片後都呼叫
