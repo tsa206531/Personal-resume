@@ -1,0 +1,29 @@
+# Task
+請你嚴格遵照「行為驅動開發 (BDD)」的方式，來完成 @order.feature 中所有驗收情境的開發。
+不可同時進行 BDD 開發流程中多個步驟也不能略過任何一步驟，必須一步一步扎實執行並確認每一步的結果。
+
+# Context
+
+## Design Guideline
+- 參考 D1.jpg、D2.jpg、D3.jpg、D4.jpg、D5.jpg、圖中所指示的類別屬性及操作只是基準，你可視情況增加新的類別、屬性或行為。
+
+
+## Tech Stack
+1. Language Env：Nuxt3 、Vue3、JavaScript、HTML、CSS、Tailwind
+
+
+## Application Environment
+1. WEB 類型：網頁作品集
+2. Source code root: src/
+
+
+# BDD 開發流程
+
+1. 嚴格遵守 BDD 以及最小增量原則來開發所有程式碼，針對所有 scenario，一次開發一個 scenario，依序進行：
+
+    A. 一次選擇一個 scenario 實作。
+
+    B. 為了通過上一步所撰寫的測試程式碼，請實作相關類別所需的程式碼，並確認能讓所有的測試程式碼都通過。請嚴格確認有執行到測試程式碼，從 test report 中覆述一次目前 test passed 的數量。
+
+    C. 遵守 clean code 原則，思考是否要重構每個類別的內部程式碼，如果必要重構的話，在重構完成之後，再執行一次測試，確保所有測試仍然通過，否則需修正邏輯直到測試全數通過。
+

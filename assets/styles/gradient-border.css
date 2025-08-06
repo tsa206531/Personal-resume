@@ -1,0 +1,45 @@
+/* gradient-border.css */
+
+
+.gradient-bass-box{
+  padding: 12px 24px;
+  font-size: 20px;
+  border-radius: 6px;
+  border-style: solid;
+  display: block;
+  
+}
+
+.por-bassbox{
+  padding: 6px 12px;
+  font-size: 16px;
+  border-radius: 6px;
+  border-style: solid;
+}
+
+.custom-button {
+  border-width: 1px;    
+  border-color: #424bff;        /* blue-700 */
+  background-color: #fafaf9;    /* stone-50 */
+  color: #424bff;               /* blue-700 */       
+  transition: background-color 0.2s, color 0.2s;
+}
+.custom-button:hover{
+  background-color: #424bff;    
+  color: #fafaf9;               
+}
+
+.gradient-border {
+  border-width: 0px;
+  color: rgb(255, 255, 255);
+  border-color: transparent;  
+background: linear-gradient(80deg,rgba(66, 75, 255, 1) 30%, rgba(149, 133, 255, 1) 99%, rgba(201, 201, 255, 1) 100%);
+  }
+
+
+.gradient-bass-box:hover {
+  
+  filter: contrast(80%);
+  transform: scale(1.1); 
+  transition: all 0.3s ease; 
+}
