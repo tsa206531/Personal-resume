@@ -26,5 +26,9 @@ export default defineNuxtConfig({
   },
   css: [
     '~/assets/styles/gradient-border.css',  // 引入自定義的 CSS 檔案
-  ]
+  ],
+  app: {
+    baseURL: '/',
+  }
+
 })
