@@ -4,8 +4,16 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: [
     '@nuxtjs/tailwindcss',
-    '@nuxtjs/color-mode'
+    '@nuxtjs/color-mode',
+    '@nuxtjs/google-fonts'
   ],
+  
+  googleFonts: {
+    families: {
+      'Zen Old Mincho': [400, 700],
+    },
+  },
+
   tailwindcss: {
     exposeConfig: true,
     viewer: true,

@@ -1,4 +1,7 @@
 /* gradient-border.css */
+html, body {
+  font-family: 'Zen Old Mincho', serif;
+}
 
 
 .gradient-bass-box{
