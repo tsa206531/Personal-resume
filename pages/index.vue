@@ -6,7 +6,7 @@
       <div class="w-full md:w-1/4 flex justify-center items-center py-8">
         <div class="w-80 h-100 rounded-xl bg-gray-200 dark:bg-gray-700 overflow-hidden shadow-lg">
           <img 
-            src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop&crop=face" 
+            src="https://raw.githubusercontent.com/tsa206531/OverTask25/refs/heads/main/img/GPT%20Image%202025%20(1).png" 
             alt="profile" 
             class="w-full h-full object-cover"
           >
@@ -17,12 +17,13 @@
       <div class="w-full md:w-3/4 flex flex-col justify-center items-start text-start px-8 py-8 ">
         <h1 class="text-4xl font-bold mb-4 text-gray-900 dark:text-white">嗨, 我是YL</h1>
         <p class="text-lg text-gray-600 dark:text-gray-300 leading-relaxed pb-8">
-          我是一位熱衷於觀察人性、理解系統並實踐創作的前端工程師，將技術與生活熱情結合，善於透過細節提升使用者體驗。<br><br>除了擅長 HTML、CSS、JavaScript、Vue 等技術外，我也熱愛登山、健身和藝術，這些興趣讓我在專案中保持創意和敏捷思維。<br><br>我相信，好的前端開發不僅在於技術實現，更是在每一個細節中傳遞溫暖與流暢感。
+          你好！我是YL Chen，一名致力於研究AI與前端技術的工程師。目前專注於Vue、Nuxt、Tailwind CSS、Cucumber和AI領域，並積極探索如何將AI技術應用於前端開發，提升開發效率和用戶體驗。<br>目前在AIxBDD社群中擔任的前端組組長，專注於研究如何將AI應用於前端開發領域。具體計畫請去blog查看： <br><br>
+          我相信，好的前端開發不僅在於技術實現，更是在每一個細節中傳遞溫暖與流暢感。
         </p>
           <div class="flex flex-col sm:flex-row gap-4 ">
             <NuxtLink to="/portfolio" class="gradient-bass-box gradient-border gradient-bass-box:hover">查看作品</NuxtLink>            
 
-            <a href="/resume.pdf" download class="gradient-bass-box custom-button custom-button:hover">下載 PDF 履歷</a> 
+            <a href="https://www.canva.com/design/DAGk5EyHeU8/akt1dBHgvTdCDYDNi3LubA/view?utm_content=DAGk5EyHeU8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h729735aa3d" download class="gradient-bass-box custom-button custom-button:hover">下載 PDF 履歷</a> 
           </div>
       </div>
     </div>
