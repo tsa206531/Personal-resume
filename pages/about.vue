@@ -55,7 +55,7 @@
   <div class="mt-6">
     <h5 class="text-xl font-semibold text-gray-900 dark:text-white mb-2">📍 2025 參與項目</h5>
     <ul class="list-disc pl-6 space-y-2 text-gray-700 dark:text-gray-200">
-      <li>UX三刀流年會籌備組：負責活動的整體規劃與現場攝影。</li>
+      <li>UX三刀流年會籌備組：負責活動規劃與現場攝影。</li>
       <li>水球潘的AIXBDD：擔任前端組組長，研究 AI 應用與技術架構。</li>
     </ul>
   </div>
