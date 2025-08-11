@@ -17,7 +17,7 @@
       <div class="w-full md:w-3/4 flex flex-col justify-center items-start text-start px-8 py-8 ">
         <h1 class="text-4xl font-bold mb-4 text-gray-900 dark:text-white">嗨, 我是YL</h1>
         <p class="text-lg text-gray-600 dark:text-gray-300 leading-relaxed pb-8">
-          你好！我是YL Chen，一名致力於研究AI與前端技術的工程師。目前專注於Vue、Nuxt、Tailwind CSS、Cucumber和AI領域，並積極探索如何將AI技術應用於前端開發，提升開發效率和用戶體驗。<br>目前在AIxBDD社群中擔任的前端組組長，專注於研究如何將AI應用於前端開發領域。 <br><br>
+          你好！我是YL Chen，一名致力於研究AI與前端技術的工程師。目前專注於Vue、Nuxt、Tailwind CSS、Cucumber和AI領域，並積極探索如何將AI技術應用於前端開發，提升開發效率和用戶體驗。<br>目前在社群中擔任的前端組組長，專注於研究如何將AI應用於前端開發領域。 <br><br>
           我相信，好的前端開發不僅在於技術實現，更是在每一個細節中傳遞溫暖與流暢感。
         </p>
           <div class="flex flex-col sm:flex-row gap-4 ">
