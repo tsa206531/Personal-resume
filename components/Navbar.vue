@@ -13,7 +13,7 @@
 
       <li><NuxtLink to="/portfolio" class="hover:text-blue-600 dark:hover:text-blue-400 transition-colors">作品集</NuxtLink></li>
 
-      <li><NuxtLink to="/about" class="hover:text-blue-600 dark:hover:text-blue-400 transition-colors">關於我</NuxtLink></li>
+      <!-- <li><NuxtLink to="/about" class="hover:text-blue-600 dark:hover:text-blue-400 transition-colors">關於我</NuxtLink></li> -->
       <!-- <li><NuxtLink to="/tools" class="hover:text-blue-600 dark:hover:text-blue-400 transition-colors">實用工具</NuxtLink></li> -->
     </ul>
     
