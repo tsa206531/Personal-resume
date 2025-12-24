@@ -23,7 +23,7 @@
           <div class="flex flex-col sm:flex-row gap-4 ">
             <NuxtLink to="/portfolio" class="gradient-bass-box gradient-border gradient-bass-box:hover">查看作品</NuxtLink>            
 
-            <a href="https://www.canva.com/design/DAGk5EyHeU8/akt1dBHgvTdCDYDNi3LubA/view?utm_content=DAGk5EyHeU8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h729735aa3d" download class="gradient-bass-box custom-button custom-button:hover">下載 PDF 履歷</a> 
+            <a href="https://www.yourator.co/r/71f10e99-cbc5-4cd8-91c4-636db45e2e51" download class="gradient-bass-box custom-button custom-button:hover">下載 PDF 履歷</a> 
           </div>
       </div>
     </div>
